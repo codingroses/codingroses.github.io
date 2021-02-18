@@ -3,8 +3,8 @@ title:  "Welcome to Coding Roses"
 subtitle: "An introductory post"
 author: "Rose"
 avatar: "img/authors/brand-logo.png"
-image: "img/f.jpg"
-date:   2021-02-17 23:14:12
+image: "img/b.jpg"
+date:   2021-02-17 11:14:12
 ---
 
 
