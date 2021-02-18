@@ -5,6 +5,7 @@ keywords: tech, stem, coding, engineer
 baseurl: "codingroses.github.io" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: CodingRoses
+author:
   name: Rose
   email: hello@google.com
   github: codingroses
