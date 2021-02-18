@@ -4,10 +4,10 @@ description: A blog about tech for tech enthusiasts
 keywords: tech, stem, coding, engineer
 baseurl: "codingroses.github.io" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author:
-  name: Rose
-  email: hello@google.com
-  github: codingroses
-  linkedin: codingroses
-  bio: A project engineer with experience in ML, DA looking to share my knowledge and experience with the world. 
-  instagram: codingroses
+#author:
+ # name: Rose
+ # email: hello@google.com
+ # github: codingroses
+ # linkedin: codingroses
+ # bio: A project engineer with experience in ML, DA looking to share my knowledge and experience with the world. 
+instagram: codingroses
