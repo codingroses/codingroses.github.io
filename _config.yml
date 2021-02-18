@@ -1,7 +1,15 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Coding Roses Tech Blog
+description: A blog about tech for tech enthusiasts
+keywords: tech, stem, coding, engineer
+baseurl: "codingroses.github.io" # the subpath of your site, e.g. /blog/
+url: "codingroses.github.io" # the base hostname & protocol for your site
+author: CodingRoses
+  name: Rose
+  email: hello@google.com
+  github: codingroses
+  linkedin: codingroses
+  bio: A project engineer with experience in ML, DA looking to share my knowledge and experience with the world. 
+  instagram: codingroses
+  twitter: #add your twitter handle here
+  
