@@ -3,7 +3,7 @@ title: Coding Roses Tech Blog
 description: A blog about tech for tech enthusiasts
 keywords: tech, stem, coding, engineer
 baseurl: "codingroses.github.io" # the subpath of your site, e.g. /blog/
-url: "codingroses.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author: CodingRoses
   name: Rose
   email: hello@google.com
